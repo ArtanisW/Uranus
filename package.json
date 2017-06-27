@@ -1,0 +1,28 @@
+{
+  "name": "uranus",
+  "version": "1.0.0",
+  "description": "web crawler based on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtanisW/Uranus.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "Node.js"
+  ],
+  "author": "Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtanisW/Uranus/issues"
+  },
+  "homepage": "https://github.com/ArtanisW/Uranus#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0"
+  }
+}
